@@ -1,0 +1,13 @@
+li {
+    padding: 1px;
+    margin: 10px 0 0 0;
+    color: aliceblue;
+}
+
+ul {
+    list-style-type: none;
+    padding: 5px;
+    margin: 5px;
+    background-color: gray;
+    border-radius: 10px;
+}
